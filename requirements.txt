@@ -1,0 +1,4 @@
+pyspark
+apache-airflow-providers-postgres
+psycopg2-binary
+apache-airflow-providers-apache-spark
